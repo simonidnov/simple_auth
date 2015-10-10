@@ -1,0 +1,28 @@
+{
+  "name": "simple_auth_dependencies",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonidnov/simple_auth",
+  "authors": [
+    "simon <sdelamarre@idnovant.fr>"
+  ],
+  "description": "libs en utilities to create simple auth forms inputs views and calls",
+  "main": "index.html",
+  "keywords": [
+    "simple",
+    "auth",
+    "simon",
+    "delamarre",
+    "forms",
+    "input",
+    "libs",
+    "utilities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
